@@ -1,0 +1,9 @@
+{
+  "iTunesLib": "/Users/Path/To/Your/iTunes Music Library.xml",
+  "OutputFolder": "/Volumes/Your/USBStick/Playlists",
+  "Playlists": [
+    "Playlist 1",
+    "Playlist 2",
+    "Playlist 3"
+  ]
+}
